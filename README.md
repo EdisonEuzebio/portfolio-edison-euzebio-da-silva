@@ -12,7 +12,7 @@
 | **ACORRIDADOPROMPT** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-A-Corrida-Do-Prompt/) |
 | **ENGENHARIAREVERSA** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Engenharia-Reversa/) |
 | **LABORATORIODECLASSIFICAÇÃOVISUAL** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
-| **ENGENHARIADESOFTWARECOMBUBBLEIO** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io) |
+| **ENGENHARIADESOFTWARECOMBUBBLEIO** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
 
  
 ---
