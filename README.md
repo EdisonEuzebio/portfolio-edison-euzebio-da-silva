@@ -46,7 +46,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **MYQRCODECUSTOM** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Do-Clone-ao-Produto-Mínimo-Viável/) |
 | **A CORRIDA DO PROMPT** | O Objetivo é gerar um resultado específico (seja texto ou imagem, conforme definido pelo professor), enfrentando o desafio de alcançar a melhor versão possível em apenas cinco tentativas. | [Ver Projeto](./projeto-A-Corrida-Do-Prompt/) |
-| **ENGENHARIA REVERSA** | Reconstruição de um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-Engenharia-Reversa/) |
+| **ENGENHARIA REVERSA** | Reconstrução de um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-Engenharia-Reversa/) |
 | **LABORATORIO DE CLASSIFICAÇÃO VISUAL** | Treinamento de um modelo de imagem simples. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
 | **ENGENHARIA DE SOFTWARE COM BUBBLEIO** | Aplicação web de gestão (por exemplo, um gerenciador de orçamentos ou de férias) utilizando a inteligência artificla do Bubble como acelerador. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
 
