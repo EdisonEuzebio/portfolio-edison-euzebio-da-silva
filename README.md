@@ -8,7 +8,7 @@
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **MYQRCODECUSTOM** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-ia-churn/) |
+| **MYQRCODECUSTOM** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Do-Clone-ao-Produto-Mínimo-Viável/) |
  
 ---
  
