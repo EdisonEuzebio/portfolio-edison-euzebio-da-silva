@@ -14,7 +14,7 @@
 | **LABORATORIODECLASSIFICAÇÃOVISUAL** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
 | **ENGENHARIADESOFTWARECOMBUBBLEIO** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
 
- 
+
 ---
  
 ### 🏗 Estrutura do Repositório
