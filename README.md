@@ -31,6 +31,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,10 +46,10 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **MYQRCODECUSTOM** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Do-Clone-ao-Produto-Mínimo-Viável/) |
-| **A CORRIDA DO PROMPT** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-A-Corrida-Do-Prompt/) |
-| **ENGENHARIA REVERSA** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Engenharia-Reversa/) |
-| **LABORATORIO DE CLASSIFICAÇÃO VISUAL** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
-| **ENGENHARIA DE SOFTWARE COM BUBBLEIO** | Uma biblioteca JS de código aberto para gerar QRCODES estilizados. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
+| **A CORRIDA DO PROMPT** | O Objetivo é gerar um resultado específico (seja texto ou imagem, conforme definido pelo professor), enfrentando o desafio de alcançar a melhor versão possível em apenas cinco tentativas. | [Ver Projeto](./projeto-A-Corrida-Do-Prompt/) |
+| **ENGENHARIA REVERSA** | Reconstruição de um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-Engenharia-Reversa/) |
+| **LABORATORIO DE CLASSIFICAÇÃO VISUAL** | Treinamento de um modelo de imagem simples. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
+| **ENGENHARIA DE SOFTWARE COM BUBBLEIO** | Aplicação web de gestão (por exemplo, um gerenciador de orçamentos ou de férias) utilizando a inteligência artificla do Bubble como acelerador. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
 
 ---
  
