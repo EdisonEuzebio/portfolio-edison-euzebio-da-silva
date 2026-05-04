@@ -49,7 +49,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | **ENGENHARIA REVERSA** | Reconstrução de um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-Engenharia-Reversa/) |
 | **LABORATORIO DE CLASSIFICAÇÃO VISUAL** | Treinamento de um modelo de imagem simples. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual/) |
 | **ENGENHARIA DE SOFTWARE COM BUBBLEIO** | Aplicação web de gestão (por exemplo, um gerenciador de orçamentos ou de férias) utilizando a inteligência artificla do Bubble como acelerador. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
-| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integração de tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source (Jitsi Meet) para criar uma solução funcional de videoconferência para Android, focando em usabilidade e criatividade.. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
+| **DESENVOLVIMENTO DE APP DE VIDEOCONFERÊNCIA COM MANUS AI E JITSI** | Integração de tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source (Jitsi Meet) para criar uma solução funcional de videoconferência para Android, focando em usabilidade e criatividade.. | [Ver Projeto](./projeto-Engenharia-de-Software-e-IA-com-Bubble.io/) |
 
 ---
  
