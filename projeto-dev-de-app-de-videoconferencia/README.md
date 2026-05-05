@@ -16,6 +16,17 @@ Diferente de plataformas de vídeo genéricas, o **Fitness Jitsi** é único por
 * **Arquitetura:** MVVM (Model-View-ViewModel) para um código limpo e escalável.
 * **Interface (UI):** XML com Custom Views para os elementos sobrepostos.
 
+## Link para pré-visualização.
+
+Link: https://manus.im/app-preview/ddh2oJdPy3uuZkP2Ybkgr9?sessionId=lY31OMqDO2Y6pZzs8CpbzZ
+
+## QR-CODE PARA FACILITAR A INSTALAÇÃO DO TESTE
+
+<img width="422" height="414" alt="qr_code_fitness" src="https://github.com/user-attachments/assets/0b2342d3-450f-49eb-a091-acd6b97d950a" />
+
+## APK
+
+
 ## ⚙️ Instruções de Instalação
 
 Siga os passos abaixo para configurar o ambiente de desenvolvimento:
