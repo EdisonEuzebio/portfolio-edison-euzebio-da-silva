@@ -24,8 +24,6 @@ Link: https://manus.im/app-preview/ddh2oJdPy3uuZkP2Ybkgr9?sessionId=lY31OMqDO2Y6
 
 <img width="422" height="414" alt="qr_code_fitness" src="https://github.com/user-attachments/assets/0b2342d3-450f-49eb-a091-acd6b97d950a" />
 
-## APK
-
 
 ## ⚙️ Instruções de Instalação
 
