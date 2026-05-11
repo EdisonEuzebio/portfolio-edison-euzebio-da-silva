@@ -14,7 +14,7 @@ Este projeto explora a intersecção entre criatividade humana e Inteligência A
  
 ## 🚀 Assistente Personalizado
 O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
-> [Link para o meu Gemini Gems](LINK_AQUI)
+> [Link para o meu Gemini Gems](https://gemini.google.com/gem/1r9Nkzy887_1BLCpWXSwfqTgZ50C7DKzF?usp=sharing)
  
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
@@ -31,4 +31,4 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
 ---
-Desenvolvido por [[SEU NOME]](https://github.com/[SEU_USUARIO])
+Desenvolvido por [EdisonEuzebio]](https://github.com/EdisonEuzebio)
