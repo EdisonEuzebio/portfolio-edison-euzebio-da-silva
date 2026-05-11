@@ -19,12 +19,12 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Título 01] | [Estilo] | [Arquivo MP3](./audio/musica1.mp3) |
-| 02 | [Título 02] | [Estilo] | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [Título 03] | [Estilo] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Título 04] | [Estilo] | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Título 05] | [Estilo] | [Arquivo MP3](./audio/musica5.mp3) |
- 
+| 01 | Echoes Of The Alley | Atmospheric Melodic Trap / Neo-Psychedelic Soul | [Arquivo MP3](./audio/musica1.mp3) |
+| 02 | Memory Maze | Experimental Hip-Hop / Atmospheric Trap | [Arquivo MP3](./audio/musica2.mp3) |
+| 03 | Space Station Velocity | Futuristic Melodic Trap / Synth-Wave Hip-Hop | [Arquivo MP3](./audio/musica3.mp3) |
+| 04 | The Legacy Recipe | Melodic Trap / Soulful Hip-Hop | [Arquivo MP3](./audio/musica4.mp3) |
+| 05 | The Rodeo Summit | Symphonic Trap / Atmospheric Hip-Hop | [Arquivo MP3](./audio/musica5.mp3) |
+
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
 2. **Prompt Engineering:** Configuração das instruções do Gems para mimetizar o vocabulário e a métrica.
