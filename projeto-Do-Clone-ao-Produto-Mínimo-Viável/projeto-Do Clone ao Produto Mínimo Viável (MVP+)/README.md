@@ -1,3 +1,5 @@
+**SM5 - Do Clone ao Produto Mínimo Viável (MVP+)**
+
 # 🎨 MYQRCODE CUSTOM - Gerador de QR Codes Artísticos
  
 ## 📝 Descrição do Projeto
