@@ -1,3 +1,5 @@
+**SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi**
+
 # Fitness Jitsi - Videoconferência para Treino Personalizado
 
 ## 🏋️ Sobre o Projeto
