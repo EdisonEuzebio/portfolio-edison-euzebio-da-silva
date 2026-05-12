@@ -1,3 +1,5 @@
+**SM4 - Engenharia Reversa**
+
 # 🎨 QR Code Styling Clone - Gerador de QR Code Profissional
 
 ## 📝 Descrição do Projeto
