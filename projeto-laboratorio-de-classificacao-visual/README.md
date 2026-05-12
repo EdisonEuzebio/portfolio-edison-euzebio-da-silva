@@ -1,3 +1,5 @@
+**SM2 - Laboratório de Classificação Visual**
+
 # 🎬 Laboratório de Classificação Visual e Viés em IA
  
 ## 📝 Descrição do Projeto
