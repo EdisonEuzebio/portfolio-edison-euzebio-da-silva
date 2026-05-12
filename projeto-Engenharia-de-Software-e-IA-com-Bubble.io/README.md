@@ -1,3 +1,5 @@
+**SM6 - Engenharia de Software e IA com Bubble.io**
+
 # 🎬 Gestor de Aplicações Web: Engenharia de Software com IA (Bubble)
  
 ## 📝 Descrição do Projeto
